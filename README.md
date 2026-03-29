@@ -10,7 +10,7 @@ Currently, I’m deep-diving into Java and Python, constantly leveling up my ski
 
 🔹 Computational Physics & Math 📐
 
-🔹 Solving coding problems & building projects 🚀
+🔹 Solving coding problems & building projects 
 
 
 # 🛠️ Tech Stack & Tools
