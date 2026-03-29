@@ -24,7 +24,7 @@ Tools: Git, GitHub, VS Code, Jupyter Notebooks
 
 
 # 📫 Let's Connect!
-LinkedIn: www.linkedin.com/in/manas-5a9855390
+LinkedIn: www.linkedin.com/in/manas-212-manas
 
 Email: 2004manas2004@gmail.com
 
